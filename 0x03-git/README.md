@@ -19,3 +19,14 @@ Good job!
 You pushed your first file in your first repository of the first task.
 
 You can now check your repository on GitHub to see if everything is good.
+
+
+
+**You can also checkout:**
+>Repo-session
+
+>Coding fury road 
+
+>Collaboration is the base of a company
+
+>Collaboration: be up to date 
